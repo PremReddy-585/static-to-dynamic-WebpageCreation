@@ -1,0 +1,31 @@
+.bg-container{
+    background-color: #3ab781;
+    padding: 18px;
+    height: 100vh;
+}
+.heading{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.list-container{
+    background-color: white;
+    border-radius: 6px;
+    padding:30px 45px 30px 45px;
+}
+.delivery-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+.btn{
+    color:white;
+    background-color: rgb(0, 124, 83);
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+    margin: 2px;
+}
